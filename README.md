@@ -20,49 +20,53 @@
     <img src="https://img.shields.io/github/license/Ramakm/AI-ML-Book-References?style=flat-square" alt="License"/>
   </a>
 </p>
-A comprehensive curated collection of essential resources for artificial intelligence and machine learning practitioners, researchers, and enthusiasts.
 
-![alt text](image.png)
-
-
-## About This Repository
-
-This repository serves as a structured knowledge hub for individuals passionate about advancing their expertise in artificial intelligence, machine learning, deep learning, and related data science disciplines. Each reference has been carefully selected to provide foundational knowledge, practical implementations, and cutting-edge insights in the field.
-
-Whether you're beginning your journey into AI/ML or looking to deepen your expertise, this collection provides authoritative resources across multiple domains including neural networks, natural language processing, computer vision, statistical learning, and practical engineering applications.
+A curated and structured collection of **essential AI & Machine Learning books** for practitioners, researchers, and learners at all levels.
 
 ---
 
-## Book References
+## 📘 About This Repository
+
+This repository serves as a **knowledge hub** for Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and related domains.
+
+Each reference is selected to provide:
+- Strong theoretical foundations
+- Practical, industry-oriented insights
+- Production-level engineering perspectives
+
+Whether you are starting out or refining advanced expertise, this collection supports continuous learning across the AI stack.
+
+---
+
+## 📚 Book References
 
 | # | Title | Author(s) | Topic Area | Key Focus | Level | Link |
-|---|-------|-----------|-----------|-----------|-------|------|
-| 1 | Designing Machine Learning Systems | - | Machine Learning | Iterative processes for production-ready systems | Intermediate | [PDF Link](https://drive.google.com/file/d/15anabTQtr_rM8xTiyz4nXne-C_StnllU/view?usp=sharing) |
-| 2 | Python for Data Analysis | Wes McKinney | Data Science | Data manipulation and analysis with Python | Beginner | [PDF Link](https://drive.google.com/file/d/1yJLGoF5hVY9CSQjOR6AWQ2o1pvAYRnOF/view?usp=sharing)|
-| 3 | SQL Cookbook | Anthony Molinaro | Databases | Query solutions and SQL techniques | Intermediate | [PDF Link](https://drive.google.com/file/d/1ETjuAy6JBJZP-IHJZkNU2QljSDHtT5EQ/view?usp=sharing)|
-| 4 | AI Engineering | Chip Huyen | Artificial Intelligence | Building AI applications with foundation models | Advanced | [PDF Link](https://drive.google.com/file/d/1ZMnVqsd5p-YIm5G3nl7h8GH7XiaUWRYr/view?usp=sharing) |
-| 5 | Deep Learning from Scratch | - | Deep Learning | Building neural networks from first principles | Intermediate | [PDF Link](https://drive.google.com/file/d/10ey0BYhAN4_pp4lvzLX-XEkoxgPKa3ZT/view?usp=sharing) |
-| 6 | Hands-On Machine Learning with Scikit-Learn & TensorFlow | Aurélien Géron | Machine Learning | Practical ML concepts and tools | Beginner-Intermediate | [PDF Link](https://drive.google.com/file/d/1yxJa_-XS1H5U-jMUl-ItzNxnp4z_Kt8N/view?usp=sharing) |
-| 7 | Human-in-the-Loop Machine Learning | - | Machine Learning | Active learning and annotation strategies | Intermediate | [PDF Link](https://drive.google.com/file/d/1QKNycQ2vGeQg5USAqLuw_7Z3m1ZN_ken/view?usp=sharing) |
-| 8 | Machine Learning with Python Cookbook | Afamefuna Umeh & Chris Albon | Data Science | Practical solutions from preprocessing to deep learning | Intermediate | [PDF Link](https://drive.google.com/file/d/18Z1xuws1Gg1Wk7sIgTGcgRAE1T9YCE1B/view?usp=sharing)|
-| 9 | Mathematics for Inference and Machine Learning | - | Mathematics | Mathematical foundations for ML applications | Advanced | [PDF Link](https://drive.google.com/file/d/1uF3daGSw-L_Ngpxqr1gHTCHKEKn6LI0n/view?usp=sharing) |
-
-| 10 | Building Machine Learning Systems | - | Machine Learning | System design and orchestration | Intermediate | [PDF Link](https://drive.google.com/file/d/1WYEQ2NVcSyqpm-TOFGdMGelQ1PdQ9bGi/view?usp=sharing) |
-| 11 | Introduction to Deep Learning | Cao Xiao & Jimeng Sun | Deep Learning | Introductory deep learning concepts and architectures | Beginner-Intermediate | [PDF Link](https://drive.google.com/file/d/1Hu-EGb4qq-aUfv19iWzPA9-111KvrFQr/view?usp=sharing) |
-| 12 | Data Analysis with NumPy and pandas | - | Data Science | Data manipulation and processing with NumPy and pandas | Beginner-Intermediate | [PDF Link](https://drive.google.com/file/d/13OT-ASYcnVrMKU3B7PXaaXUX8ULjDbyQ/view?usp=sharing) |
-| 13 | Data Visualization with Python and JavaScript | - | Data Visualization | Techniques to scrape, clean, explore, and visualize data | Intermediate | [PDF Link](https://drive.google.com/file/d/1hAJGVP1s1lUsYFjT7nZcy6ptaeeO3QBq/view?usp=sharing) |
-| 14 | Data Science for Business | Foster Provost & Tom Fawcett | Data Science | Data mining and analytic thinking for business | Intermediate | [PDF Link](https://drive.google.com/file/d/1cQhtuZ6bbvXsfPq6dtNCM8WRE-m3N3zz/view?usp=sharing) |
-| 15 | Computer Vision: A Modern Approach | David A. Forsyth & Jean Ponce | Computer Vision | Principles and algorithms for vision systems | Advanced | [PDF Link](https://drive.google.com/file/d/1xxiPEKT2A_3WOTKlFvxxbE-PcxojW5hE/view?usp=sharing) |
-| 16 | Deep Learning Methods and Applications | - | Deep Learning | Methods and real-world deep learning applications | Intermediate | [PDF Link](https://drive.google.com/file/d/1Lw6S258kwBIU_WDSxerag4PZ6xERc6lv/view?usp=sharing) |
-| 17 | Deep Learning with Applications | - | Deep Learning | Applied deep learning case studies | Intermediate | [PDF Link](https://drive.google.com/file/d/1m0vea-CQiIvoC6ANNbEGaa9p_PA6HYI-/view?usp=sharing) |
-| 18 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani & Jerome Friedman | Statistics / ML | Statistical learning theory and methods | Advanced | [PDF Link]([https://drive.google.com/file/d/1m0vea-CQiIvoC6ANNbEGaa9p_PA6HYI-/view?usp=sharing](https://drive.google.com/file/d/1e_1a3XCP0uLQKyjQqp0tiAO7bIApzeEm/view?usp=sharing)) |
-| 19 | Exercises in Machine Learning | Michael U. Gutmann | Practice | Exercises and problem sets for ML concepts | Intermediate | [PDF Link](https://drive.google.com/file/d/1GO2CFnZ61HYN9Q33MjiSYeKpzYWCAefK/view?usp=sharing) |
-| 20 | Feature Engineering for Machine Learning | Alice Zheng & Amanda Casari | Data Preparation | Feature engineering techniques for predictive models | Intermediate | [PDF Link](https://drive.google.com/file/d/1iEd1O54-aml4-xQ-IBTTmNCkvCfmOdah/view?usp=sharing) |
-| 21 | Graph Machine Learning | - | Graph ML | Graph-based machine learning techniques and algorithms | Intermediate | [PDF Link](https://drive.google.com/file/d/1fd_r-RHhbCkaoC_-dh4RO9R0LHluqxtW/view?usp=drive_link) |
-| 22 | Machine Learning for Absolute Beginners | - | Machine Learning | Introductory concepts and practical examples for beginners | Beginner | [PDF Link](https://drive.google.com/file/d/1mKSTzJLKLN9GDAZ9QSyF27RjAO5DjMMK/view?usp=sharing) |
-| 23 | Python Machine Learning | - | Machine Learning / Python | Practical machine learning examples using Python | Beginner-Intermediate | [PDF Link](https://drive.google.com/file/d/1R_1OL4nSga6RTCvMOUZSOq7SNZlsSsWw/view?usp=sharing) |
-| 24 | Quantitative Economics with Python | Thomas J. Sargent & John Stachurski | Economics / Data Science | Quantitative economics and econometrics with Python | Intermediate-Advanced | [PDF Link](https://drive.google.com/file/d/1rQ8_NtaXInOoF_OBS-_d-CeG7WKWYj1c/view?usp=sharing)|
-| 25 | The Little Book of Deep Learning | François Fleuret | Deep Learning | Concise overview of deep learning concepts | Beginner-Intermediate | [PDF Link](https://drive.google.com/file/d/12VaJnvchrs9RsfZdspRneCd9uDhjuaXX/view?usp=sharing) |
+|---|------|-----------|------------|-----------|-------|------|
+| 1 | Designing Machine Learning Systems | Chip Huyen | Machine Learning | Production ML systems & iteration | Intermediate | [PDF](https://drive.google.com/file/d/15anabTQtr_rM8xTiyz4nXne-C_StnllU/view) |
+| 2 | Python for Data Analysis | Wes McKinney | Data Science | Data analysis with pandas & NumPy | Beginner | [PDF](https://drive.google.com/file/d/1yJLGoF5hVY9CSQjOR6AWQ2o1pvAYRnOF/view) |
+| 3 | SQL Cookbook | Anthony Molinaro | Databases | Practical SQL solutions | Intermediate | [PDF](https://drive.google.com/file/d/1ETjuAy6JBJZP-IHJZkNU2QljSDHtT5EQ/view) |
+| 4 | AI Engineering | Chip Huyen | Artificial Intelligence | Foundation-model-driven systems | Advanced | [PDF](https://drive.google.com/file/d/1ZMnVqsd5p-YIm5G3nl7h8GH7XiaUWRYr/view) |
+| 5 | Deep Learning from Scratch | Unknown | Deep Learning | Neural networks from fundamentals | Intermediate | [PDF](https://drive.google.com/file/d/10ey0BYhAN4_pp4lvzLX-XEkoxgPKa3ZT/view) |
+| 6 | Hands-On Machine Learning | Aurélien Géron | Machine Learning | Practical ML with sklearn & TF | Beginner–Intermediate | [PDF](https://drive.google.com/file/d/1yxJa_-XS1H5U-jMUl-ItzNxnp4z_Kt8N/view) |
+| 7 | Human-in-the-Loop ML | Unknown | Machine Learning | Active learning workflows | Intermediate | [PDF](https://drive.google.com/file/d/1QKNycQ2vGeQg5USAqLuw_7Z3m1ZN_ken/view) |
+| 8 | ML with Python Cookbook | Umeh & Albon | Data Science | End-to-end ML recipes | Intermediate | [PDF](https://drive.google.com/file/d/18Z1xuws1Gg1Wk7sIgTGcgRAE1T9YCE1B/view) |
+| 9 | Mathematics for ML | Unknown | Mathematics | Linear algebra, probability | Advanced | [PDF](https://drive.google.com/file/d/1uF3daGSw-L_Ngpxqr1gHTCHKEKn6LI0n/view) |
+| 10 | Building ML Systems | Unknown | Machine Learning | System architecture & pipelines | Intermediate | [PDF](https://drive.google.com/file/d/1WYEQ2NVcSyqpm-TOFGdMGelQ1PdQ9bGi/view) |
+| 11 | Introduction to Deep Learning | Cao Xiao, Jimeng Sun | Deep Learning | DL foundations | Beginner–Intermediate | [PDF](https://drive.google.com/file/d/1Hu-EGb4qq-aUfv19iWzPA9-111KvrFQr/view) |
+| 12 | Data Analysis with NumPy & pandas | Unknown | Data Science | Data manipulation | Beginner–Intermediate | [PDF](https://drive.google.com/file/d/13OT-ASYcnVrMKU3B7PXaaXUX8ULjDbyQ/view) |
+| 13 | Data Visualization | Unknown | Visualization | Data storytelling | Intermediate | [PDF](https://drive.google.com/file/d/1hAJGVP1s1lUsYFjT7nZcy6ptaeeO3QBq/view) |
+| 14 | Data Science for Business | Provost & Fawcett | Data Science | Business decision-making | Intermediate | [PDF](https://drive.google.com/file/d/1cQhtuZ6bbvXsfPq6dtNCM8WRE-m3N3zz/view) |
+| 15 | Computer Vision | Forsyth & Ponce | Computer Vision | Vision algorithms | Advanced | [PDF](https://drive.google.com/file/d/1xxiPEKT2A_3WOTKlFvxxbE-PcxojW5hE/view) |
+| 16 | Deep Learning Methods | Unknown | Deep Learning | DL techniques | Intermediate | [PDF](https://drive.google.com/file/d/1Lw6S258kwBIU_WDSxerag4PZ6xERc6lv/view) |
+| 17 | Deep Learning Applications | Unknown | Deep Learning | Applied DL | Intermediate | [PDF](https://drive.google.com/file/d/1m0vea-CQiIvoC6ANNbEGaa9p_PA6HYI-/view) |
+| 18 | Elements of Statistical Learning | Hastie et al. | Statistics / ML | Statistical learning theory | Advanced | [PDF](https://drive.google.com/file/d/1e_1a3XCP0uLQKyjQqp0tiAO7bIApzeEm/view) |
+| 19 | Exercises in ML | Michael Gutmann | Practice | ML problem sets | Intermediate | [PDF](https://drive.google.com/file/d/1GO2CFnZ61HYN9Q33MjiSYeKpzYWCAefK/view) |
+| 20 | Feature Engineering | Zheng & Casari | Data Prep | Feature design | Intermediate | [PDF](https://drive.google.com/file/d/1iEd1O54-aml4-xQ-IBTTmNCkvCfmOdah/view) |
+| 21 | Graph Machine Learning | Unknown | Graph ML | GNNs & graph methods | Intermediate | [PDF](https://drive.google.com/file/d/1fd_r-RHhbCkaoC_-dh4RO9R0LHluqxtW/view) |
+| 22 | ML for Absolute Beginners | Unknown | Machine Learning | Intro concepts | Beginner | [PDF](https://drive.google.com/file/d/1mKSTzJLKLN9GDAZ9QSyF27RjAO5DjMMK/view) |
+| 23 | Python Machine Learning | Unknown | ML / Python | ML with Python | Beginner–Intermediate | [PDF](https://drive.google.com/file/d/1R_1OL4nSga6RTCvMOUZSOq7SNZlsSsWw/view) |
+| 24 | Quantitative Economics | Sargent & Stachurski | Economics | Econ modeling | Intermediate–Advanced | [PDF](https://drive.google.com/file/d/1rQ8_NtaXInOoF_OBS-_d-CeG7WKWYj1c/view) |
+| 25 | The Little Book of DL | François Fleuret | Deep Learning | Concise DL overview | Beginner–Intermediate | [PDF](https://drive.google.com/file/d/12VaJnvchrs9RsfZdspRneCd9uDhjuaXX/view) |
 
 ---
 
@@ -110,3 +114,5 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/techwith_ram)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/techwith.ram)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramakm)
+
+
