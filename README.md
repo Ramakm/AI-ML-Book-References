@@ -35,17 +35,34 @@ Whether you're beginning your journey into AI/ML or looking to deepen your exper
 
 ## Book References
 
-| # | Title | Author(s) | Topic Area | Key Focus | Level |
-|---|-------|-----------|-----------|-----------|-------|
-| 1 | Designing Machine Learning Systems | - | Machine Learning | Iterative processes for production-ready systems | Intermediate |
-| 2 | Python for Data Analysis | Wes McKinney | Data Science | Data manipulation and analysis with Python | Beginner |
-| 3 | SQL Cookbook | Anthony Molinaro | Databases | Query solutions and SQL techniques | Intermediate |
-| 4 | AI Engineering | Chip Huyen | Artificial Intelligence | Building AI applications with foundation models | Advanced |
-| 5 | Deep Learning from Scratch | - | Deep Learning | Building neural networks from first principles | Intermediate |
-| 6 | Hands-On Machine Learning with Scikit-Learn & TensorFlow | Aurélien Géron | Machine Learning | Practical ML concepts and tools | Beginner-Intermediate |
-| 7 | Human-in-the-Loop Machine Learning | - | Machine Learning | Active learning and annotation strategies | Intermediate |
-| 8 | Machine Learning with Python Cookbook | Afamefuna Umeh & Chris Albon | Data Science | Practical solutions from preprocessing to deep learning | Intermediate |
-| 9 | Mathematics for Inference and Machine Learning | - | Mathematics | Mathematical foundations for ML applications | Advanced |
+| # | Title | Author(s) | Topic Area | Key Focus | Level | Link |
+|---|-------|-----------|-----------|-----------|-------|------|
+| 1 | Designing Machine Learning Systems | - | Machine Learning | Iterative processes for production-ready systems | Intermediate | - |
+| 2 | Python for Data Analysis | Wes McKinney | Data Science | Data manipulation and analysis with Python | Beginner | - |
+| 3 | SQL Cookbook | Anthony Molinaro | Databases | Query solutions and SQL techniques | Intermediate | - |
+| 4 | AI Engineering | Chip Huyen | Artificial Intelligence | Building AI applications with foundation models | Advanced | - |
+| 5 | Deep Learning from Scratch | - | Deep Learning | Building neural networks from first principles | Intermediate | - |
+| 6 | Hands-On Machine Learning with Scikit-Learn & TensorFlow | Aurélien Géron | Machine Learning | Practical ML concepts and tools | Beginner-Intermediate | - |
+| 7 | Human-in-the-Loop Machine Learning | - | Machine Learning | Active learning and annotation strategies | Intermediate | - |
+| 8 | Machine Learning with Python Cookbook | Afamefuna Umeh & Chris Albon | Data Science | Practical solutions from preprocessing to deep learning | Intermediate | - |
+| 9 | Mathematics for Inference and Machine Learning | - | Mathematics | Mathematical foundations for ML applications | Advanced | - |
+
+| 10 | Building Machine Learning Systems | - | Machine Learning | System design and orchestration | Intermediate | - |
+| 11 | Introduction to Deep Learning | Cao Xiao & Jimeng Sun | Deep Learning | Introductory deep learning concepts and architectures | Beginner-Intermediate | - |
+| 12 | Data Analysis with NumPy and pandas | - | Data Science | Data manipulation and processing with NumPy and pandas | Beginner-Intermediate | - |
+| 13 | Data Visualization with Python and JavaScript | - | Data Visualization | Techniques to scrape, clean, explore, and visualize data | Intermediate | - |
+| 14 | Data Science for Business | Foster Provost & Tom Fawcett | Data Science | Data mining and analytic thinking for business | Intermediate | - |
+| 15 | Computer Vision: A Modern Approach | David A. Forsyth & Jean Ponce | Computer Vision | Principles and algorithms for vision systems | Advanced | - |
+| 16 | Deep Learning Methods and Applications | - | Deep Learning | Methods and real-world deep learning applications | Intermediate | - |
+| 17 | Deep Learning with Applications | - | Deep Learning | Applied deep learning case studies | Intermediate | - |
+| 18 | The Elements of Statistical Learning | Trevor Hastie, Robert Tibshirani & Jerome Friedman | Statistics / ML | Statistical learning theory and methods | Advanced | - |
+| 19 | Exercises in Machine Learning | Michael U. Gutmann | Practice | Exercises and problem sets for ML concepts | Intermediate | - |
+| 20 | Feature Engineering for Machine Learning | Alice Zheng & Amanda Casari | Data Preparation | Feature engineering techniques for predictive models | Intermediate | - |
+| 21 | Graph Machine Learning | - | Graph ML | Graph-based machine learning techniques and algorithms | Intermediate | - |
+| 22 | Machine Learning for Absolute Beginners | - | Machine Learning | Introductory concepts and practical examples for beginners | Beginner | - |
+| 23 | Python Machine Learning | - | Machine Learning / Python | Practical machine learning examples using Python | Beginner-Intermediate | - |
+| 24 | Quantitative Economics with Python | Thomas J. Sargent & John Stachurski | Economics / Data Science | Quantitative economics and econometrics with Python | Intermediate-Advanced | - |
+| 25 | The Little Book of Deep Learning | François Fleuret | Deep Learning | Concise overview of deep learning concepts | Beginner-Intermediate | - |
 
 ---
 
