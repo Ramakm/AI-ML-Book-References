@@ -37,7 +37,7 @@ Whether you're beginning your journey into AI/ML or looking to deepen your exper
 
 | # | Title | Author(s) | Topic Area | Key Focus | Level | Link |
 |---|-------|-----------|-----------|-----------|-------|------|
-| 1 | Designing Machine Learning Systems | - | Machine Learning | Iterative processes for production-ready systems | Intermediate | - |
+| 1 | Designing Machine Learning Systems | - | Machine Learning | Iterative processes for production-ready systems | Intermediate | [Read Here]("https://drive.google.com/file/d/15anabTQtr_rM8xTiyz4nXne-C_StnllU/view?usp=sharing") |
 | 2 | Python for Data Analysis | Wes McKinney | Data Science | Data manipulation and analysis with Python | Beginner | - |
 | 3 | SQL Cookbook | Anthony Molinaro | Databases | Query solutions and SQL techniques | Intermediate | - |
 | 4 | AI Engineering | Chip Huyen | Artificial Intelligence | Building AI applications with foundation models | Advanced | - |
