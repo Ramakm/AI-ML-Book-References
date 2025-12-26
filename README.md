@@ -1,6 +1,28 @@
 # AI & Machine Learning Book References
 
+<p align="center">
+  <a href="https://github.com/Ramakm/AI-ML-Book-References/stargazers">
+    <img src="https://img.shields.io/github/stars/Ramakm/AI-ML-Book-References?style=flat-square" alt="GitHub stars"/>
+  </a>
+  <a href="https://github.com/Ramakm/AI-ML-Book-References/network/members">
+    <img src="https://img.shields.io/github/forks/Ramakm/AI-ML-Book-References?style=flat-square" alt="GitHub forks"/>
+  </a>
+  <a href="https://github.com/Ramakm/AI-ML-Book-References/issues">
+    <img src="https://img.shields.io/github/issues/Ramakm/AI-ML-Book-References?style=flat-square" alt="GitHub issues"/>
+  </a>
+  <a href="https://github.com/Ramakm/AI-ML-Book-References/pulls">
+    <img src="https://img.shields.io/github/issues-pr/Ramakm/AI-ML-Book-References?style=flat-square" alt="GitHub pull requests"/>
+  </a>
+  <a href="https://github.com/Ramakm/AI-ML-Book-References/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/Ramakm/AI-ML-Book-References?style=flat-square" alt="GitHub contributors"/>
+  </a>
+  <a href="https://github.com/Ramakm/AI-ML-Book-References/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Ramakm/AI-ML-Book-References?style=flat-square" alt="License"/>
+  </a>
+</p>
 A comprehensive curated collection of essential resources for artificial intelligence and machine learning practitioners, researchers, and enthusiasts.
+
+![alt text](image.png)
 
 
 ## About This Repository
@@ -66,6 +88,8 @@ Recommendations for new book references are welcome. Please ensure suggested mat
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
----
+## Connect with me
 
-**Last Updated:** December 2025
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/techwith_ram)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/techwith.ram)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramakm)
