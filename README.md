@@ -25,7 +25,7 @@ A curated and structured collection of **essential AI & Machine Learning books**
 
 ---
 
-## 📘 About This Repository
+## About This Repository
 
 This repository serves as a **knowledge hub** for Artificial Intelligence, Machine Learning, Deep Learning, Data Science, and related domains.
 
@@ -38,7 +38,7 @@ Whether you are starting out or refining advanced expertise, this collection sup
 
 ---
 
-## 📚 Book References
+## Book References
 
 | # | Title | Author(s) | Topic Area | Key Focus | Level | Link |
 |---|------|-----------|------------|-----------|-------|------|
