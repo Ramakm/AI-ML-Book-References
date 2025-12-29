@@ -67,6 +67,14 @@ Whether you are starting out or refining advanced expertise, this collection sup
 | 23 | Python Machine Learning | Unknown | ML / Python | ML with Python | Beginner–Intermediate | [PDF](https://drive.google.com/file/d/1R_1OL4nSga6RTCvMOUZSOq7SNZlsSsWw/view) |
 | 24 | Quantitative Economics | Sargent & Stachurski | Economics | Econ modeling | Intermediate–Advanced | [PDF](https://drive.google.com/file/d/1rQ8_NtaXInOoF_OBS-_d-CeG7WKWYj1c/view) |
 | 25 | The Little Book of DL | François Fleuret | Deep Learning | Concise DL overview | Beginner–Intermediate | [PDF](https://drive.google.com/file/d/12VaJnvchrs9RsfZdspRneCd9uDhjuaXX/view) |
+| 26 | Artificial Intelligence: A Modern Approach | Unknown | Artificial Intelligence | Comprehensive AI foundations | Advanced | Artificial Intelligence A Modern Approach, 3rd Edition.pdf |
+| 27 | Artificial Intelligence by Example | Unknown | AI/Machine Learning | Advanced AI & DL design skills | Intermediate–Advanced | Artificial Intelligence By Example Acquire Advanced AI, Machine Learning and Deep Learning design skills.pdf |
+| 28 | Bayesian Reasoning and Machine Learning | Unknown | Machine Learning | Probabilistic ML methods | Advanced | Bayesian reasoning and machine learning (PDFDrive.com).pdf |
+| 29 | Hands-on Data Science | Unknown | Data Science | Practical data science workflow | Intermediate | Hands-on-data-science.pdf |
+| 30 | Machine Learning Algorithms (2nd Edition) | Unknown | Machine Learning | ML algorithms with color visuals | Intermediate | MachineLearningAlgorithmsSecondEdition_ColorImages.pdf |
+| 31 | Mastering Machine Learning Algorithms | Unknown | Machine Learning | Advanced ML algorithms | Advanced | Mastering Machine Learning Algorithms - Second Edition.epub |
+| 32 | OpenCV 4 with Python Blueprints | Unknown | Computer Vision | Advanced CV projects with Python | Intermediate | OpenCV 4 with Python Blueprints Become proficient in computer vision by designing advanced projects using OpenCV 4 with Python 3.8.pdf |
+| 33 | AI & Machine Learning for Coders & Programmers | Unknown | AI/Machine Learning | ML implementation for programmers | Intermediate | ai-machine-learning-coders-programmers.pdf |
 
 ---
 
