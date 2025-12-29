@@ -21,6 +21,9 @@
   </a>
 </p>
 
+<img width="2000" height="600" alt="image" src="https://github.com/user-attachments/assets/50bc417f-cca2-4a5c-a327-f4fe0c43f6db" />
+
+
 A curated and structured collection of **essential AI & Machine Learning books** for practitioners, researchers, and learners at all levels.
 
 ---
