@@ -26,6 +26,8 @@
 
 A curated and structured collection of **essential AI & Machine Learning books** for practitioners, researchers, and learners at all levels.
 
+**Please subscribe to my FREE Newsletter here:** https://growtechie.substack.com/
+
 ---
 
 ## About This Repository
